@@ -1,0 +1,16 @@
+PODS:
+  - FlashPaySDK (1.0.0)
+
+DEPENDENCIES:
+  - FlashPaySDK (from `../FlashPaySDK`)
+
+EXTERNAL SOURCES:
+  FlashPaySDK:
+    :path: "../FlashPaySDK"
+
+SPEC CHECKSUMS:
+  FlashPaySDK: 03ba5106fdc2210a41f19092e11ad0d21aee1f96
+
+PODFILE CHECKSUM: d9f55a4ba26f73f2c0a678e5b05bdd3a4875ae63
+
+COCOAPODS: 1.15.2
